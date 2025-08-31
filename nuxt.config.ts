@@ -9,5 +9,6 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/content',
     '@nuxt/ui',
+    '@nuxt/test-utils',
   ],
 })
